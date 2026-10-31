@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About
 
-I'm a **Java Backend & Full-Stack Developer** and **Applied AI Builder** who engineers reliable, scalable systems and ships them end to end. I hold a **B.E. in Computer Science & Engineering (Honours)** from **Bangalore Technological Institute (VTU)**.
+I'm a **Java Backend & Full-Stack Developer** and **Applied AI Builder** who engineers reliable, scalable systems and ships them end to end. I hold a **B.E. in Computer Science & Engineering** from **Bangalore Technological Institute (VTU)**.
 
 - ☕ **Software engineering:** I build production-style backends with **Java 17, Spring Boot, Hibernate, REST APIs and MySQL**, with clean layering, validation and well-modelled relational data.
 - 🤖 **Applied AI:** I integrate **Google Gemini Multimodal Vision & LLM APIs** into real workflows and pair them with **deterministic hybrid agents**, so AI output is grounded, verifiable and predictable.
@@ -53,7 +53,6 @@ I'm a **Java Backend & Full-Stack Developer** and **Applied AI Builder** who eng
 <img src="https://skillicons.dev/icons?i=java,python,ts,js,mysql,html,css&theme=dark" alt="Languages" /><br/>
 ![Java 17](https://img.shields.io/badge/Java%2017-8B5CF6?style=flat-square&logo=openjdk&logoColor=white&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/Python-6366F1?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-3B82F6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4F46E5?style=flat-square&logo=javascript&logoColor=white&labelColor=0D1117)
 ![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117)
 ![HTML5](https://img.shields.io/badge/HTML5-6366F1?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117)
@@ -95,8 +94,8 @@ I'm a **Java Backend & Full-Stack Developer** and **Applied AI Builder** who eng
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **Multimodal Vision AI** | ![Applied](https://img.shields.io/badge/Applied-8B5CF6?style=flat-square&labelColor=0D1117) | Gemini Vision API for image-based verification and classification of civic issues |
-| **Generative AI & Assessment Automation** | ![Applied](https://img.shields.io/badge/Applied-6366F1?style=flat-square&labelColor=0D1117) | Gemini Text/LLM API for automated question generation and assessment workflows |
+| **Multimodal Vision AI** | ![Applied](https://img.shields.io/badge/Applied-8B5CF6?style=flat-square&labelColor=0D1117) |  Vision API for image-based verification and classification of civic issues |
+| **Generative AI & Assessment Automation** | ![Applied](https://img.shields.io/badge/Applied-6366F1?style=flat-square&labelColor=0D1117) | Text/LLM API for automated question generation and assessment workflows |
 | **Agentic Workflows & Routing** | ![Applied](https://img.shields.io/badge/Applied-4F46E5?style=flat-square&labelColor=0D1117) | Python/TypeScript orchestration of deterministic hybrid agents for decision routing |
 | **Geospatial Intelligence** | ![Applied](https://img.shields.io/badge/Applied-3B82F6?style=flat-square&labelColor=0D1117) | Haversine distance and OpenStreetMap Nominatim API for geocoding and nearest-authority routing |
 
@@ -117,7 +116,7 @@ An AI-assisted civic complaint platform. Citizens report infrastructure issues w
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |:---|:---|:---|:---|:---|:---|
-| Java 17, Spring Boot, MySQL (AWS RDS), AWS S3, Nominatim, Gemini Vision | Cloud-hosted relational store and object storage designed to grow with complaint volume | Automated verification and routing replace manual triage | Validated inputs, controlled media storage, managed cloud database | Faster, more transparent civic complaint resolution | [View Repository](https://github.com/gn-shanthaveeragowda) |
+| Java 17, Spring Boot, MySQL (AWS RDS), AWS S3, Nominatim | Cloud-hosted relational store and object storage designed to grow with complaint volume | Automated verification and routing replace manual triage | Validated inputs, controlled media storage, managed cloud database | Faster, more transparent civic complaint resolution | [View Repository](https://github.com/gn-shanthaveeragowda) |
 
 - 🧩 **Layered Spring Boot backend:** controller, service and repository layers over MySQL on AWS RDS.
 - 🖼️ **Multimodal verification:** Gemini Vision analyses uploaded images to confirm and categorise the reported issue.
@@ -138,7 +137,7 @@ An assessment platform for universities that generates quizzes with an LLM, deli
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |:---|:---|:---|:---|:---|:---|
-| Java, Spring Boot, MySQL, REST APIs, Gemini API, HTML5/CSS3/JS | Built for multi-course, multi-student assessment workloads | Automated generation and evaluation reduce manual effort | Server-side validation and structured data access | Scalable, lower-overhead assessments for educators | [View Repository](https://github.com/gn-shanthaveeragowda) |
+| Java, Spring Boot, MySQL, REST APIs API, HTML5/CSS3/JS | Built for multi-course, multi-student assessment workloads | Automated generation and evaluation reduce manual effort | Server-side validation and structured data access | Scalable, lower-overhead assessments for educators | [View Repository](https://github.com/gn-shanthaveeragowda) |
 
 - 🧱 **REST-first backend:** Spring Boot services expose quiz, attempt and result endpoints over MySQL.
 - ✨ **LLM-assisted generation:** Gemini API produces questions from course topics, with structured parsing of responses.
