@@ -8,7 +8,7 @@
 
 <br/>
 
-![Education](https://img.shields.io/badge/B.E.%20CSE%20(Honours)-BTI%20(VTU)-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117)
+![Education](https://img.shields.io/badge/B.E.%20CSE%20-BTI%20(VTU)-6366F1?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117)
 ![Location](https://img.shields.io/badge/Bengaluru%2C%20Karnataka%2C%20India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)
 
 <a href="https://gn-shanthaveeragowda.dev"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
