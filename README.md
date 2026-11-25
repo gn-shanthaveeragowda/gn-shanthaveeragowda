@@ -55,7 +55,6 @@ I'm a **Java Backend & Full-Stack Developer** and **Applied AI Builder** who eng
 ![Python](https://img.shields.io/badge/Python-6366F1?style=flat-square&logo=python&logoColor=white&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/JavaScript-4F46E5?style=flat-square&logo=javascript&logoColor=white&labelColor=0D1117)
 ![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117)
-![HTML5](https://img.shields.io/badge/HTML5-6366F1?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117)
 ![CSS3](https://img.shields.io/badge/CSS3-3B82F6?style=flat-square&logo=css3&logoColor=white&labelColor=0D1117)
 
 ### Frontend
